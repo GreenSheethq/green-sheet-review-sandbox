@@ -1,0 +1,17 @@
+{
+  "slate_id":"GS-NFL-2026-W01-SHOWDOWN-DENKC0914",
+  "game":"DEN@KC",
+  "sample_note":"Frozen pre-lock review sample. No actual game results are included.",
+  "players":[
+    {"Player":"Patrick Mahomes","Position":"QB","Team":"KC","FlexSalary":9600,"CPTSalary":14400,"Projection":20.39,"P90":31.6,"TournamentFit":88.8,"GSCptOwnershipPct":13.49,"GSCptLeverage":104.5,"RoleTier":"CORE","RoleConfidence":98,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Bo Nix","Position":"QB","Team":"DEN","FlexSalary":9800,"CPTSalary":14700,"Projection":18.89,"P90":29.28,"TournamentFit":88.0,"GSCptOwnershipPct":11.78,"GSCptLeverage":105.8,"RoleTier":"CORE","RoleConfidence":96,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Rashee Rice","Position":"WR","Team":"KC","FlexSalary":9400,"CPTSalary":14100,"Projection":18.28,"P90":36.56,"TournamentFit":89.8,"GSCptOwnershipPct":11.16,"GSCptLeverage":106.1,"RoleTier":"CORE","RoleConfidence":94,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Kenneth Walker III","Position":"RB","Team":"KC","FlexSalary":10600,"CPTSalary":15900,"Projection":14.36,"P90":25.85,"TournamentFit":92.7,"GSCptOwnershipPct":7.25,"GSCptLeverage":108.0,"RoleTier":"CORE","RoleConfidence":94,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Courtland Sutton","Position":"WR","Team":"DEN","FlexSalary":8000,"CPTSalary":12000,"Projection":12.81,"P90":25.62,"TournamentFit":93.9,"GSCptOwnershipPct":6.07,"GSCptLeverage":108.4,"RoleTier":"CORE","RoleConfidence":92,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Jaylen Waddle","Position":"WR","Team":"DEN","FlexSalary":9000,"CPTSalary":13500,"Projection":12.6,"P90":25.2,"TournamentFit":92.7,"GSCptOwnershipPct":5.84,"GSCptLeverage":108.4,"RoleTier":"CORE","RoleConfidence":92,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"RJ Harvey","Position":"RB","Team":"DEN","FlexSalary":7400,"CPTSalary":11100,"Projection":11.99,"P90":21.58,"TournamentFit":92.5,"GSCptOwnershipPct":5.44,"GSCptLeverage":108.5,"RoleTier":"STRONG","RoleConfidence":86,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"J.K. Dobbins","Position":"RB","Team":"DEN","FlexSalary":6400,"CPTSalary":9600,"Projection":11.79,"P90":21.22,"TournamentFit":90.5,"GSCptOwnershipPct":5.34,"GSCptLeverage":108.5,"RoleTier":"STRONG","RoleConfidence":88,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Travis Kelce","Position":"TE","Team":"KC","FlexSalary":7000,"CPTSalary":10500,"Projection":11.3,"P90":21.47,"TournamentFit":90.9,"GSCptOwnershipPct":4.92,"GSCptLeverage":108.5,"RoleTier":"CORE","RoleConfidence":91,"FragilityClass":"LOW","RosterEligibility":"ELIGIBLE"},
+    {"Player":"Troy Franklin","Position":"WR","Team":"DEN","FlexSalary":2800,"CPTSalary":4200,"Projection":8.9,"P90":17.8,"TournamentFit":84.6,"GSCptOwnershipPct":3.49,"GSCptLeverage":109.2,"RoleTier":"VALUE","RoleConfidence":75,"FragilityClass":"MEDIUM","RosterEligibility":"ELIGIBLE"}
+  ]
+}
